@@ -1,6 +1,6 @@
 package com.dwightaspencer.amorfati;
 
-import epicsquid.roots.init.ModItems;
+import com.dwightaspencer.amorfati.init.ModItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
