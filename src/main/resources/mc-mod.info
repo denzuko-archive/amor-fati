@@ -1,0 +1,14 @@
+[{
+  "modid": "amorfati",
+  "name": "Amor Fati",
+  "description": "Magic mod centered around cards, wards, and summmons.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/amor-fati",
+  "updateUrl": "https://github.com/denzuko/amor-fati/releases/latest",
+  "authorList": ["denzuko"],
+  "credits": "Thanks goes to the MysticModers, Vaskii, All the patreon supportors, and you for playing this mod.",
+  "logoFile": "https://media.forgecdn.net/avatars/thumbnails/266/657/64/64/637233249663268878.png",
+  "screenshots": [],
+  "dependencies": ["mysticlib", "mysticworld", "botania", "arcane-archives", "roots", "forge"]
+}]
